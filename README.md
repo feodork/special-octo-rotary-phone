@@ -15,7 +15,7 @@ Run this command: `git add .`
 
 [Google](https://google.com)
 
-[Bind](https://bing.com)
+[Bing](https://bing.com)
 
 ## CSS Sample
 
